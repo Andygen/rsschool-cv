@@ -1,3 +1,3 @@
 # Andy Gen
 
-## Best of the best!
+## Best of the best.
