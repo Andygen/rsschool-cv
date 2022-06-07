@@ -1,2 +1,2 @@
 # rsschool-cv
-# https://Andygen.github.com/rsschool-cv/cv
+# https://Andygen.github.io/rsschool-cv/cv
